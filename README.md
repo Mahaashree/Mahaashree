@@ -52,5 +52,5 @@
 
 ---
 
-> 🚀 “Always curious, always building.”
+> 🚀 “Just passionately curious.”
 
