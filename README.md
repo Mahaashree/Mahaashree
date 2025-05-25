@@ -47,7 +47,7 @@
 
 ### 📬 Let’s Connect
 
-- 💌 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) — let me know if you're hiring!
+- 💌 [LinkedIn](https://www.linkedin.com/in/mahaashree-anburaj/) — let me know if you're hiring!
 - 💡 Currently looking for: **ML Internship Opportunities**
 
 ---
