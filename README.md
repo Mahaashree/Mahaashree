@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋, I'm Mahaashree!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Enthusiast;Computer+Vision+Explorer;Hackathon+Lover;Always+Learning!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Enthusiast;Computer+Vision+Explorer;NLP+LLMs;Backend+Dev;Hackathon+Lover;Always+Learning!" />
 </p>
 
 ---
