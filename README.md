@@ -1,56 +1,54 @@
-<h2 align="center">Hey there 👋, I'm Mahaashree!</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Enthusiast;Computer+Vision+Explorer;NLP+LLMs;Backend+Dev;Hackathon+Lover;Always+Learning!" />
-</p>
+<h2 align="center">Hi, I'm Mahaashree 👋</h2>
+<p align="center">AI/ML Developer · Computer Vision & NLP · Hackathon Winner · Always Building</p>
 
 ---
 
-### 👩‍💻 About Me
+### 🧠 About Me
 
-- 🎓 I'm a student passionate about **Machine Learning** and **Computer Vision**
-- 🧠 Currently working on **Face Liveness Detection** and spoof-proof authentication systems
-- 🔭 I’m building projects that blend AI + real-world impact
-- 🧪 I love prototyping, experimenting, and solving problems that matter
+I'm a 2nd-year B.Tech student passionate about building secure, impactful, and intelligent systems using **Machine Learning** and **AI**. From national-level hackathons to research-driven projects, I focus on applying deep learning in domains like **computer vision**, **LLMs**, and **real-time security systems**.
 
----
-
-### 💼 Projects
-
-- 🔒 [**Liveness Detection App**](https://github.com/Mahaashree/Image-Spoofer): Real-time spoof detection using blink recognition
-- 🎯 [**Object Detection with YOLOv8**](https://github.com/Mahaashree/Yolov8-CustomDataset): Custom object detector using YOLOv8
-- 📚 [**ML Paper Summarizer**](#): Summarizing academic ML papers using transformers (Coming Soon)
-- 🧠 [**Traffic Management AI System**](#): Planning stage
+Currently seeking internship opportunities in **ML/AI research or engineering** roles.
 
 ---
 
-### 🛠️ Technologies I Work With
+### 🔍 Featured Projects
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
-![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+- 🔐 [**ASFA**](https://github.com/Mahaashree/ASFA):  
+  *Anti-Spoofing Face Authentication system*  
+  Real-time spoof-proof face login using liveness detection (photo, video, 3D mask resistant).  
+  `OpenCV · TensorFlow · Dlib · FastAPI`
 
----
+- 🧬 [**Aid4All**](https://github.com/Mahaashree/Aid4All):  
+  *Full-stack caregiver app for wheelchair users*  
+  Real-time fall alerts, mood detection, live camera stream, and vitals monitoring.  
+  `React Native · Firebase · Flask · OpenCV · Dlib`
 
-### 📈 GitHub Stats
+- 📄 [**Loki**](https://github.com/Mahaashree/LLM-QA-Documents):  
+  *Document Question Answering using LLMs*  
+  Upload PDFs or legal text and ask questions via an LLM-powered chat interface.  
+  `LangChain · Streamlit · FAISS · OpenAI API`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahaashree&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaashree&theme=radical" height="150"/>
-</p>
-
----
-
-### 📬 Let’s Connect
-
-- 💌 [LinkedIn](https://www.linkedin.com/in/mahaashree-anburaj/) — let me know if you're hiring!
-- 💡 Currently looking for: **ML Internship Opportunities**
+- ⚖️ [**Lexsure**](https://github.com/Mahaashree/Lexsure-Legal-Doc-Analyzer):  
+  *Legal document analyzer*  
+  Automatically highlights clauses, red flags, and summaries from legal docs.  
+  `HuggingFace Transformers · NLP · Streamlit`
 
 ---
 
-> 🚀 “Just passionately curious.”
+### ⚙️ Tech Stack
 
+**Languages:** Python · JavaScript · C/C++  
+**ML/AI:** TensorFlow · OpenCV · Dlib · HuggingFace · MediaPipe · PyTorch  
+**NLP/LLMs:** LangChain · OpenAI API · FAISS  
+**Dev Tools:** FastAPI · Flask · Firebase · React Native · MongoDB
+
+---
+
+### 🤝 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahaashree-anburaj/)
+- 💌 [Email](mailto:mahaashreeofficial@gmail.com)
+
+---
+
+<p align="center"><i>“Building secure & meaningful AI — one model at a time.”</i></p>
