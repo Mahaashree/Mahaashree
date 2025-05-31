@@ -1,9 +1,9 @@
-<h2 align="center">Hi, I'm Mahaashree 👋</h2>
+<h2 align="center">Heya, I'm Mahaashree 👋</h2>
 <p align="center">AI/ML Developer · Computer Vision & NLP · Hackathon Winner · Always Building</p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a 2nd-year B.Tech student passionate about building secure, impactful, and intelligent systems using **Machine Learning** and **AI**. From national-level hackathons to research-driven projects, I focus on applying deep learning in domains like **computer vision**, **LLMs**, and **real-time security systems**.
 
